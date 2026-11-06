@@ -1,12 +1,25 @@
-## About Me
+# About Me
 
-I’m really into understanding how things work, whether it’s software or hardware. C++ is my go-to language because I enjoy writing efficient code that gets the job done.
+I'm a C++ developer with an interest in reverse engineering, game security, and understanding how software works internally.
 
-## What I’m Into
+## Interests
 
-- **Reverse Engineering**: Analyzing software to understand its inner workings and discover how it operates.
-- **C++ Programming**: Building applications and solving complex problems.
-- **Cybersecurity**: Exploring vulnerabilities and improving security practices.
+- Reverse Engineering: Binary analysis, software internals, and undocumented systems.
+- Game Security: Game cheats, game manipulation, and cheat detection techniques.
+- Anti-Cheat Research: Anti-cheat architecture, detection mechanisms, and client-side security.
+- Malware Analysis: Investigating malicious software and analyzing its behavior.
+- Low-Level Development: C++, assembly, memory management, and operating system internals.
 
+## Languages & Technologies
+
+- C++
+- C
+- Assembly
+ 
+#Tools
+- IDA Prox
+- 64dbg
+- Ghidra
+ 
 ## GitHub Stats
 [![GitHub Streak](https://streak-stats.demolab.com?user=unengaged&theme=tokyonight-duo)](https://git.io/streak-stats)
