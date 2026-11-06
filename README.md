@@ -18,8 +18,8 @@ I'm a C++ developer with an interest in reverse engineering, game security, and 
 - Assembly
  
 # Tools
-- IDA Prox
-- 64dbgGhidra
+- IDA Pro
+- x64dbg
 - Ghidra
  
 ## GitHub Stats
