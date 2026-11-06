@@ -9,6 +9,7 @@ I'm a C++ developer with an interest in reverse engineering, game security, and 
 - Anti-Cheat Research: Anti-cheat architecture, detection mechanisms, and client-side security.
 - Malware Analysis: Investigating malicious software and analyzing its behavior.
 - Low-Level Development: C++, assembly, memory management, and operating system internals.
+- Cybersecurity: Vulnerability research, network security, system security, and security analysis.
 
 ## Languages & Technologies
 
@@ -18,7 +19,7 @@ I'm a C++ developer with an interest in reverse engineering, game security, and 
  
 # Tools
 - IDA Prox
-- 64dbg
+- 64dbgGhidra
 - Ghidra
  
 ## GitHub Stats
